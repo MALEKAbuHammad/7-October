@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.step,
+.count {
+  display: flex;
+  justify-content: center;
+}
+
+.count {
+}
+
+.btn {
+  width: 35px;
+  height: 35px;
+  position: relative;
+  top: 10px;
+  background-color: red;
+  color: white;
+  font-size: 25px;
+  border-radius: 50%;
+}
+
+img {
+  width: 400px;
+  height: 250px;
+}
+.show {
+  width: 300px;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 50px;
+}
+.show:hover {
+  background-color: red;
+  color: white;
+}
